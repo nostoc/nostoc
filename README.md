@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Hansika Karunathilake
+- 👀 I’m interested in web development, app development, and machine learning.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on innovative web development projects and open source software.
+- 📫 How to reach me: You can reach me via email at nostochk@gmail.com or connect with me on LinkedIn [here](linkedin.com/in/hansika-karunathilake-520a03218).
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love hiking and have a goal to visit all the national parks in my country.
