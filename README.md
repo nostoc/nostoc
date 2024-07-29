@@ -3,7 +3,6 @@
 - 🔭 I’m currently a third year Engineering undergraduate.
 - 🌱 I’m currently learning Flutter, Machine Learning and Next.js 
 - 👯 I’m looking to collaborate on reasearch projects.
-- 🤔 I’m looking for help with [Specific Problem or Area]
 - 📫 How to reach me: [nostochk@gmail.com]
 - 😄 Pronouns: [She/her]
 
