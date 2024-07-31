@@ -64,10 +64,11 @@
 ### 📊 GitHub Stats
 
 
-<a href="https://github.com/nostoc/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nostoc&show_icons=true&theme=radical" />
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostoc&layout=compact&theme=radical" />
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nostoc&show_icons=true&locale=en&layout=compact" alt="nostoc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nostoc&show_icons=true&locale=en" alt="nostoc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nostoc&" alt="nostoc" /></p>
 
 
 ### 📫 Connect with me
