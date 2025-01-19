@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hansika K.
-### Computer Engineering Undergraduate | Full-Stack Developer | AI/ML Engineer | Cat Lover  
+### Computer Engineering Undergraduate | Full-Stack Developer | AI/ML Engineer | Cat Lover 😺
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nostoc&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nostoc)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hansika-karunathilake)  
