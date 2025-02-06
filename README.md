@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hansika K.
-### Computer Engineering Undergraduate | Full-Stack Developer | AI/ML Engineer | Cat Lover 😺
+### Computer Engineering Undergraduate | Cat Lover 😺
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nostoc&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nostoc)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hansika-karunathilake)  
@@ -16,17 +16,17 @@
 I'm a third-year Computer Engineering undergraduate from Sri Lanka with a passion for solving real-world problems through technology. My journey in tech is driven by enthusiasm, endurance, and a constant desire to learn through self-study and hands-on experience.  
 
 - 🚀 Aspiring solopreneur focused on web and mobile app development  
-- 💡 Self-motivated learner with growing interests in AI and machine learning  
+- 💡 Self-motivated learner with growing interests in Computer  learning  
 - 🤝 Team player with experience in collaborative development  
-- 🐱 Proud cat lover who brings creativity to coding  
+- 🐱 Proud cat lover 
 
 ---
 
 ## Current Focus  
 
 - 🔭 Working on [Say I Do Wedding Directory](https://github.com/nostoc/wedding-directory)  
-- 📱 Expanding knowledge in Mobile App Development  
-- ⚡ Learning Next.js and exploring modern web technologies  
+- 📱 Expanding knowledge in Mobile App Development
+- ⚡ Learning Django. 
 - 🌟 Building my portfolio through freelance projects  
 
 ---
@@ -37,7 +37,8 @@ I'm a third-year Computer Engineering undergraduate from Sri Lanka with a passio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 
 ### Web Development  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-38B2AC?style=flat-square&logo=django&logoColor=white)  
+
 
 ### Mobile Development  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
