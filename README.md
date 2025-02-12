@@ -55,10 +55,7 @@ I'm a third-year Computer Engineering undergraduate from Sri Lanka with a passio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nostoc&show_icons=true&theme=transparent&hide=issues&count_private=true&hide_title=true&hide_border=true&card_width=400)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nostoc&theme=transparent&hide_border=true&card_width=400)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nostoc&layout=compact&theme=transparent&hide_border=true&card_width=400)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nostoc&layout=compact&theme=transparent&hide_border=true&card_width=400)
 
 </div>
 
