@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hansika K.
-### Computer Engineering Undergraduate | Cat Lover 😺
+### SE Intern @WSO2 | Computer Engineering Undergraduate | Cat Lover 😺
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nostoc&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nostoc)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hansika-karunathilake)  
@@ -24,9 +24,9 @@ I'm a third-year Computer Engineering undergraduate from Sri Lanka with a passio
 
 ## Current Focus  
 
-- 🔭 Working on [Say I Do Wedding Directory](https://github.com/nostoc/wedding-directory)  
-- 📱 Expanding knowledge in Mobile App Development
-- ⚡ Learning Django. 
+- 🔭 Working on [AWS SQS Connector](https://github.com/nostoc/module-ballerinax-aws.sqs)  
+- 📱 Expanding knowledge in Ballerina
+- ⚡ Learning React Native
 - 🌟 Building my portfolio through freelance projects  
 
 ---
