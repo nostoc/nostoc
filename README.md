@@ -89,4 +89,3 @@ Feel free to reach out if you'd like to collaborate or just want to connect!
 
 ---
 
-<p align="center">Thanks for visiting my profile! 😊</p>
