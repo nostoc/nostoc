@@ -21,16 +21,6 @@ I’m a third-year Computer Engineering undergraduate from Sri Lanka passionate 
 - 🐱 Proud cat lover
 
 ---
-
-## 🎯 Current Focus
-
-- 🔭 Developing the [AWS SQS Connector](https://github.com/nostoc/module-ballerinax-aws.sqs)  
-- 📱 Expanding skills in Ballerina  
-- ⚡ Learning React Native for mobile apps  
-- 🌟 Building my portfolio through freelance projects  
-
----
-
 ## 💻 Tech Stack
 
 ### Languages  
