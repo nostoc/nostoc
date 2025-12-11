@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hansika K.
-### SE Intern @ WSO2 | Computer Engineering Undergraduate | Cat Lover 😺
+### Former SE Intern @ WSO2 | Computer Engineering Undergraduate | Cat Lover 😺
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nostoc&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nostoc)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansika-karunathilake)  
