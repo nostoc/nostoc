@@ -13,12 +13,12 @@
 
 ## 👋 About Me
 
-I’m a third-year Computer Engineering undergraduate from Sri Lanka passionate about solving real-world problems through technology. Driven by enthusiasm and a love for learning, I constantly push myself through self-study and hands-on projects.
+I’m a final year Computer Engineering undergraduate from Sri Lanka passionate about solving real-world problems through technology. Driven by enthusiasm and a love for learning, I constantly push myself through self-study and hands-on projects.
 
-- 🚀 Aspiring solopreneur focused on web & mobile app development  
+- 🚀 Aspiring solopreneur focused on web, mobile app development & QA.
 - 💡 Self-motivated learner growing in Computer Science & Software Engineering  
 - 🤝 Collaborative team player with experience in development teams  
-- 🐱 Proud cat lover
+
 
 ---
 ## 💻 Tech Stack
